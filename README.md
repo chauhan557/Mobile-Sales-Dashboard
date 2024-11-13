@@ -1,12 +1,15 @@
 # Mobile-Sales-Dashboard
-Developed an interactive mobile sales dashboard using Power BI with a focus on key metrics and visual insights:
 
-KPIs Tracked: Total sales, total quantity of transactions, and average price per unit.
+Here's the description with emojis for added impact:
+
+📊 Developed an Interactive Mobile Sales Dashboard Using Power BI:
+
+Key KPIs Tracked: 📈 Total Sales, 🛒 Total Transactions, 💵 Average Price per Unit
 Visual Insights Provided:
-Sales distribution across cities
-Monthly quantity trends (line chart) for trend analysis
-Customer satisfaction via rating funnel chart
-Transaction breakdown by payment methods
-Analysis of top 3 best-selling models
-Sales segmentation by brand
-Advanced DAX Calculations: Implemented Total MTD (Month-to-Date) sales and SamePeriodLastYear sales for comparative performance analysis.
+🌍 Sales Distribution by Cities
+📅 Monthly Quantity Trends (Line Chart for Trend Analysis)
+⭐ Customer Satisfaction Ratings (Funnel Chart)
+💳 Transactions by Payment Methods
+📱 Top 3 Best-Selling Models
+🏷️ Sales by Brand
+Advanced DAX Calculations: 🗓️ Total MTD (Month-to-Date) Sales, 📆 SamePeriodLastYear Sales for Year-on-Year Performance Comparison
